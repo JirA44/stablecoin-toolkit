@@ -1,3 +1,13 @@
+## Français
+
+Infrastructure logicielle autour de l’émission et de la gestion de stablecoins, des réserves et de la conformité. Exemple : étudier les composants avant de concevoir un déploiement adapté à une juridiction.
+
+## English
+
+Software infrastructure for stablecoin issuance, reserve management, and compliance. Example: review the components before designing a deployment for a specific jurisdiction.
+
+---
+
 # stablecoin-toolkit
 
 Open-source stablecoin infrastructure — issuance, reserve management, compliance, multi-geography support. By [kcolbchain](https://kcolbchain.com) (est. 2015).
